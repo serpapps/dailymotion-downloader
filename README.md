@@ -1,4 +1,4 @@
-# Dailymotion Downloader Browser Extension 
+# Dailymotion Video Downloader Browser Extension 
 
 A browser extension that lets you download Dailymotion Videos instantly for offline viewing.
 
