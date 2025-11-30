@@ -26,16 +26,6 @@ A browser extension that lets you download Dailymotion Videos instantly for offl
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
 
-## Table of Contents
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Videos](#videos)
-- [Installation Instructions](#installation-instructions)
-- [How to Use](#how-to-use)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Reviews](#reviews)
-- [About](#about)
-- [Related](#related)
 
 ## Features
 
