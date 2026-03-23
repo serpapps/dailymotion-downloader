@@ -1,104 +1,175 @@
-# Dailymotion Video Downloader Browser Extension 
+# Dailymotion Downloader (Browser Extension)
 
-A browser extension that lets you download Dailymotion Videos instantly for offline viewing.
+> Download supported Dailymotion videos as MP4 files for offline viewing.
 
-- Download high-quality Dailymotion videos without manual captures or questionable workarounds
-- Batch process entire channels and playlists for quick content archiving
-- Support for various video formats and resolutions to match your delivery needs
-- Archive Dailymotion assets, prep client deliverables, or keep your library accessible when connectivity is limited
+Dailymotion Downloader is a browser extension for users who want a cleaner way to save Dailymotion videos without relying on browser hacks, screen capture workarounds, or generic tools that miss the real stream. It detects supported Dailymotion media, lets you choose the available quality, and exports the result as MP4 for later playback.
 
-<br><br>
-<a href="https://www.youtube.com/watch?v=AD4425NNr4o" target="_blank">
-<img src="https://img.youtube.com/vi/AD4425NNr4o/maxresdefault.jpg" width="700px" alt="Dailymotion Downloader tutorial video">
-</a>
+- Save supported Dailymotion videos from watch pages
+- Detect available quality levels exposed by the player
+- Export MP4 files for easier playback across devices
+- Keep a browser-first workflow instead of manual extraction
+- Use a cleaner offline workflow for channels, references, and archives
 
-## 🔗 Links
+## Links
 
-- 🎁 Get it [here](https://serp.ly/dailymotion-downloader)
-- ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
-- 🐛 Report bugs [here](https://github.com/serpapps/dailymotion-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/dailymotion-downloader/issues)
+- :rocket: Get it here: [Dailymotion Downloader](https://serp.ly/dailymotion-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/dailymotion-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/dailymotion-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/dailymotion-downloader/issues)
 
-### Resources
+## Preview
 
-- 💬 [Community](https://serp.ly/@serp/community)
-- 💌 [Newsletter](https://serp.ly/@serp/email)
-- 🛒 [Shop](https://serp.ly/@serp/store)
-- 🎓 [Courses](https://serp.ly/@serp/courses)
+![Dailymotion Downloader workflow preview](assets/workflow-preview.webp)
 
+## Table of Contents
+
+- [Why Dailymotion Downloader](#why-dailymotion-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Step-by-Step Tutorial: How to Download Videos from Dailymotion](#step-by-step-tutorial-how-to-download-videos-from-dailymotion)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Troubleshooting](#troubleshooting)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [License](#license)
+- [Notes](#notes)
+- [About Dailymotion](#about-dailymotion)
+
+## Why Dailymotion Downloader
+
+Dailymotion videos are often delivered through player-managed sources rather than a simple static file you can right-click and save. That makes casual download attempts inconsistent. Some generic extensions detect nothing, while others fail to surface the actual playback quality you want.
+
+Dailymotion Downloader is built to simplify that flow. Open the video, let the extension detect the active media source, choose the available quality, and save the result as MP4 from within the browser.
 
 ## Features
 
-- Easy one-click downloads from any Dailymotion video
-- Media auto detection across channels and playlists
-- Download progress indicators for real-time feedback
-- No watermarks added to downloaded videos
-- No ads or tracking
-- Regular updates with new features and improvements
-- 100% privacy-friendly – no tracking or data collection
-- Zero data tracking – all processing happens locally on your computer
+- Detects supported Dailymotion streams from active video pages
+- Lists quality variants when multiple resolutions are available (1080p, 720p, 480p, 360p, 240p)
+- Converts HLS streams to downloadable MP4 files in-browser
+- Video info card with thumbnail, title, duration, and video ID
+- Right-click context menu for a faster download flow
+- Real-time progress tracking with download speed and file size
+- Desktop notifications when downloads complete
+- Auto-saves to an organized DAILYMOTION subfolder in Downloads
+- Exports MP4 files for easier offline viewing
+- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
-### How to Use
+## How It Works
 
-1. Visit any Dailymotion video page
-2. Click the Dailymotion Downloader extension icon in your browser
-3. Wait for the video to be detected (click the video on the page if needed)
-4. Click "Download video"
-5. The video will save to your Downloads folder
+1. Install the extension from the latest release.
+2. Open a Dailymotion video page and press play.
+3. Let the extension detect the active media source.
+4. Open the popup or use the right-click context menu.
+5. Review the video info card and available quality levels.
+6. Choose the resolution you want and start the download.
+7. Save the final MP4 file locally.
 
-## Frequently Asked Questions
+## Step-by-Step Tutorial: How to Download Videos from Dailymotion
 
-### Q: Can I download private videos?
-A: If you can watch the video in your browser (including logged-in or passworded videos you have access to), you can download it. If you cannot view it, you cannot download it.
+1. Install Dailymotion Downloader from the latest GitHub release.
+2. Open Dailymotion and sign in if the page requires account access.
+3. Navigate to the video page you want to keep.
+4. Let the player load fully and press play.
+5. Click the extension icon in your toolbar or right-click the page.
+6. Review the video info card and quality options shown by the extension.
+7. Choose the resolution you want if more than one option is available.
+8. Start the download and wait for the MP4 export to finish.
+9. Open the saved file from your Downloads folder.
 
-### Q: How many videos can I download?
-A: After purchasing the extension you have lifetime access to it and future upgrades—you can download as many videos as you want.
+## Supported Formats
 
-### Q: Do you track what I download?
-A: No. Everything happens locally on your computer and is never sent to our servers.
+- Input: supported Dailymotion video streams (HLS and direct HTTP)
+- Input: multiple quality levels (typically 1080p, 720p, 480p, 360p, 240p)
+- Output: MP4
 
-### Q: Where is the video saved?
-A: Videos save to whatever folder your browser uses for downloads (usually your Downloads folder unless you changed it).
+Saved files use MP4 so they are easier to replay on standard media players, transfer between devices, or archive for later access.
 
-### Q: How long does it take to download?
-A: It depends on the video length, resolution, and your connection speed. Short clips finish quickly; long or high-resolution videos take longer.
+## Who It's For
 
-### Q: Is my data private?
-A: All detection and conversion happen locally. Only licence checks touch remote servers, and no viewing history or passwords are stored.
+- Dailymotion viewers who want offline copies of supported videos
+- Users archiving public or authorized reference material
+- People who want a browser extension instead of manual media extraction
+- Users saving videos for travel, review, or internal reference
+- Content creators who need to archive their own uploaded videos
 
-### Q: Is this legal?
-A: **DISCLAIMER:** We are not attorneys and do not offer legal advice. Laws vary by country and platform. For any legal question please consult a qualified legal professional.
+## Common Use Cases
 
-We give you full control over download speeds because we believe users should decide how they use their software.
+- Save a Dailymotion video for later playback
+- Export the highest available quality as MP4
+- Keep a local copy of reference material for offline access
+- Avoid using manual screen recording for simple downloads
+- Archive your own uploaded content from Dailymotion
 
-That said, here are a few widely accepted best practices for safe, responsible downloading:
+## Troubleshooting
 
-1. Only download content you created, own, or have explicit permission from the rights holder to access.
-2. Protect your personal data by respecting platform rules and rate limits with reasonable download speeds to avoid automated abuse systems putting your account at risk.
-3. Protect your privacy by using a reputable VPN for IP protection before initiating downloads — [this is the VPN we recommend & use](https://serp.ly/best/vpn).
+**The extension does not detect the video**
+Press play first and wait a few seconds for the player to initialize the active source.
 
-## About
+**No quality picker appears**
+Some pages expose only one playable stream, so only one option may be available.
 
-Dailymotion is a major video hosting platform used by creators, broadcasters, and content distributors worldwide. However, like many video platforms, it doesn't provide a way to download videos for offline viewing or archival purposes.
+**The page looks loaded but the extension is empty**
+Refresh the page and retry after starting playback again. Make sure the URL contains /video/.
 
-Whether you're a content creator managing your own library, a production team preparing client deliverables, or someone who needs offline access to educational or professional videos, Dailymotion Downloader solves the problem quickly and reliably.
+**The download stopped or failed partway through**
+Check whether your internet connection dropped during the export. Retry the download from the popup.
 
-Instead of juggling manual captures or questionable browser extensions, Dailymotion Downloader pulls content directly from Dailymotion with consistent quality and predictable results. Move quickly from download to delivery without tedious rework.
+**The extension does not work on an embedded Dailymotion video**
+Navigate to the original Dailymotion.com video page first, then use the extension from there.
 
-## Supported Platforms
+## Trial & Access
 
-- Windows
-- macOS
-- Linux
-- Chrome
-- Firefox
-- Edge
-- Opera
+- Includes **3 free downloads** so you can test the workflow first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the trial
+- Unlimited downloads are available with a paid license
 
----
+Start here: [https://serp.ly/dailymotion-downloader](https://serp.ly/dailymotion-downloader)
 
-## Related
+## Installation Instructions
 
-- [Repo](https://github.com/serpapps/dailymotion-downloader)
-- [Dailymotion Downloader](https://gist.github.com/devinschumacher/6dddbf66f30258486e0acd34f1d9d54a)
-- [How to Download Dailymotion Videos for Free (HLS .m3u8 Streams)](https://github.com/serpapps/dailymotion-downloader)
+1. Open the latest release page: [GitHub Releases](https://github.com/serpapps/dailymotion-downloader/releases/latest)
+2. Download the correct build for your browser.
+3. Install the extension.
+4. Open a Dailymotion video page.
+5. Use the popup to detect and download the media.
+
+## FAQ
+
+**Can I save Dailymotion videos as MP4?**
+Yes. Supported videos are exported as MP4 files.
+
+**Do I need separate recording software?**
+No. The workflow stays inside the extension.
+
+**Does it work on every Dailymotion page?**
+It works on supported playback flows. Detection depends on how the media is exposed on that page.
+
+**Does it work with embedded Dailymotion videos?**
+The extension works on Dailymotion.com video pages. For embedded videos on other sites, navigate to the original Dailymotion video page first.
+
+**Where are videos saved?**
+They are saved to your default Downloads location, typically inside a DAILYMOTION subfolder.
+
+**What browsers are supported?**
+Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
+
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
+
+## Notes
+
+- Only download content you own or have explicit permission to save
+- An internet connection is required for downloads
+- Quality options depend on what the uploader provided
+- The page URL should contain /video/ for detection to work
+- Please comply with Dailymotion's terms of service
+
+## About Dailymotion
+
+Dailymotion is a large video platform used for entertainment, clips, and reference media. Dailymotion Downloader is meant to make supported downloads easier for users who can already access the video in their browser.
