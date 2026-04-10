@@ -1,0 +1,24 @@
+{
+    "name": "serpapps/dailymotion-downloader",
+    "type": "library",
+    "description": "Save Dailymotion videos in HD with playlist support and subtitle extraction",
+    "keywords": [
+        "dailymotion",
+        "dailymotion-downloader",
+        "dailymotion-video-downloader",
+        "browser-extension",
+        "video-downloader"
+    ],
+    "homepage": "https://github.com/serpapps/dailymotion-downloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SERP Apps",
+            "homepage": "https://github.com/serpapps",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
