@@ -4,7 +4,7 @@
   "description": "Dailymotion Downloader gives you a local-first way to save Dailymotion videos for offline viewing with predictable quality and straightforward downloads.",
   "input": "./INPUT_SCHEMA.json",
   "name": "dailymotion-downloader",
-  "readme": "../README.md",
+  "readme": "../ACTOR.md",
   "title": "Dailymotion Downloader",
   "version": "0.0"
 }
