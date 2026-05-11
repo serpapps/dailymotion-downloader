@@ -1,5 +1,11 @@
 # Dailymotion Downloader (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=V3VdXib8wOU" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-dailymotion-videos.jpg" width="700px">
+</a>
+
 > Download supported Dailymotion videos as MP4 files for offline viewing.
 
 Dailymotion Downloader is a browser extension for users who want a cleaner way to save Dailymotion videos without relying on browser hacks, screen capture workarounds, or generic tools that miss the real stream. It detects supported Dailymotion media, lets you choose the available quality, and exports the result as MP4 for later playback.
