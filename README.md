@@ -20,7 +20,9 @@ Dailymotion Downloader is a browser extension for users who want a cleaner way t
 
 ## Preview
 
-![Dailymotion Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=V3VdXib8wOU" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-dailymotion-videos.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
