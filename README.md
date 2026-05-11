@@ -10,12 +10,6 @@ Dailymotion Downloader is a browser extension for users who want a cleaner way t
 - Keep a browser-first workflow instead of manual extraction
 - Use a cleaner offline workflow for channels, references, and archives
 
-## Watch The Video
-
-<a href="https://www.youtube.com/watch?v=V3VdXib8wOU" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-dailymotion-videos.jpg" width="700px">
-</a>
-
 ## Links
 
 - :rocket: Get it here: [Dailymotion Downloader](https://serp.ly/dailymotion-downloader)
@@ -26,7 +20,9 @@ Dailymotion Downloader is a browser extension for users who want a cleaner way t
 
 ## Preview
 
-![Dailymotion Downloader workflow preview](https://raw.githubusercontent.com/serpapps/dailymotion-downloader/refs/heads/main/assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=V3VdXib8wOU" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-dailymotion-videos.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
